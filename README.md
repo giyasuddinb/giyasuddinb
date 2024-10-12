@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi there! 👋 I'm MD Giyas Uddin B 
 
-<!--
-**giyasuddinb/giyasuddinb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate **Full-Stack Developer** specializing in the **MERN stack** (MongoDB, Express.js, React.js, Node.js). I love building modern web applications that are fast, responsive, and user-friendly.
 
-Here are some ideas to get you started:
+### 💻 What I Do
+- **Frontend Development:** I enjoy creating interactive, pixel-perfect UIs with React.js, TailwindCSS, and Material UI. I’m always looking for ways to improve user experience and performance.
+- **Backend Development:** I build scalable APIs using Node.js and Express.js. I focus on writing clean, modular, and maintainable code, making sure everything is robust and secure.
+- **Database Management:** I work with **MongoDB** to manage and store application data, using its flexible schema and scalability to design efficient, performant backends.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Tools
+- **Frontend:** React.js, Redux, JavaScript (ES6+), HTML5, CSS3, SASS, TailwindCSS, Material UI
+- **Backend:** Node.js, Express.js, REST APIs, JWT, Socket.io
+- **Database:** MongoDB, Mongoose, Firebase
+- **Version Control:** Git, GitHub
+- **Deployment:** Heroku, Netlify, Vercel, DigitalOcean, Docker
+
+### 🌱 Currently Learning
+- TypeScript
+- Next.js for server-side rendering
+- GraphQL
+
+### 📈 GitHub Stats
+[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)](https://github.com/YourUsername)
+
+### 👇 Let’s Connect!
+- [LinkedIn](https://www.linkedin.com/in/md-giyas-uddinb/)
+- [Personal Portfolio](https://yourportfolio.com)
+- [Twitter]([https://twitter.com/your-twitter](https://x.com/MdGiyasuddinB))
+
+---
+
