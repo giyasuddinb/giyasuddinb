@@ -1,23 +1,30 @@
 # Hi there! 👋 I'm MD Giyas Uddin B 
 
-I’m a passionate **Full-Stack Developer** specializing in the **MERN stack** (MongoDB, Express.js, React.js, Node.js). I love building modern web applications that are fast, responsive, and user-friendly.
+I am a Full-Stack Developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js). I’m passionate about building dynamic, responsive, and high-performance web applications. I love tackling challenges, learning new technologies, and continuously improving my skills.
 
-## 💻 What do I Do?
-- **Frontend Development:** I enjoy creating interactive, pixel-perfect UIs with React.js, TailwindCSS, and Material UI. I’m always looking for ways to improve user experience and performance.
-- **Backend Development:** I build scalable APIs using Node.js and Express.js. I focus on writing clean, modular, and maintainable code, making sure everything is robust and secure.
-- **Database Management:** I work with **MongoDB** to manage and store application data, using its flexible schema and scalability to design efficient, performant backends.
+## 💻 Tech Stack & Expertise
 
-## 🛠️ Technologies & Tools
-- **Frontend:** React.js, Redux, JavaScript (ES6+), HTML5, CSS3, SASS, TailwindCSS, Material UI
-- **Backend:** Node.js, Express.js, REST APIs, JWT, Socket.io
-- **Database:** MongoDB, Mongoose, Firebase
-- **Version Control:** Git, GitHub
-- **Deployment:** Heroku, Netlify, Vercel, DigitalOcean, Docker
+### 🔧 **Frontend Development:**
+- **React.js & Redux:** Building reusable, component-based UIs with dynamic routing, state management, and side-effect handling.
+- **JavaScript (ES6+):** Writing modern, clean, and maintainable JavaScript with a focus on performance and scalability.
+- **CSS Frameworks:** Responsive and mobile-first design with **TailwindCSS**, **Material UI**, **Bootstrap**, and custom CSS/SASS.
+- **Frontend Tools:** Webpack, Babel, React Hooks, Axios, Context API.
 
-## 🌱 Currently Learning
-- TypeScript
-- Next.js for server-side rendering
-- GraphQL
+### ⚙️ **Backend Development:**
+- **Node.js & Express.js:** Creating scalable, RESTful APIs, middleware, and microservices architecture.
+- **Authentication & Security:** Using **JWT**, **OAuth2**, and role-based access control to secure applications.
+- **WebSockets:** Real-time communication via **Socket.io** for chat apps, notifications, and collaborative tools.
+- **API Design:** Crafting and consuming REST APIs, integrating third-party services (Stripe, Twilio, SendGrid).
+
+### 🛠 **Database Management:**
+- **MongoDB & Mongoose:** Efficient schema design, queries, data relationships, aggregation pipelines, and indexing for performance optimization.
+- **Data Storage & Management:** Leveraging MongoDB’s flexibility for data management, combined with cloud services like **Firebase** for authentication and real-time data.
+
+### 🔥 **DevOps & Deployment:**
+- **CI/CD Pipelines:** Automating builds and deployments using GitHub Actions, Jenkins, and Travis CI.
+- **Cloud Platforms:** Deploying scalable applications to **Heroku**, **Vercel**, **Netlify**, and **DigitalOcean**.
+- **Docker:** Containerizing applications to ensure consistent environments from development to production.
+- **Version Control:** Mastery of **Git** for version control and collaboration with branching, pull requests, and code reviews.
 
 ## 📈 GitHub Stats
 [![Giyas Uddin](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)](https://github.com/giyasuddinb)
@@ -26,4 +33,5 @@ I’m a passionate **Full-Stack Developer** specializing in the **MERN stack** (
 - [LinkedIn](https://www.linkedin.com/in/md-giyas-uddinb/)
 - [Personal Portfolio](https://yourportfolio.com)
 - [Twitter](https://x.com/MdGiyasuddinB)
+- [Email](giasbmd1995@gmail.com)
 
