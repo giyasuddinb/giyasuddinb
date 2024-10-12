@@ -29,9 +29,9 @@ I am a Full-Stack Developer specializing in the MERN stack (MongoDB, Express.js,
 ## 📈 GitHub Stats
 [![Giyas Uddin](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)](https://github.com/giyasuddinb)
 
-## 👇 Let’s Connect with Me!
-- [LinkedIn](https://www.linkedin.com/in/md-giyas-uddinb/)
+## 👇 Connect with Me!
 - [Personal Portfolio](https://yourportfolio.com)
+- [LinkedIn](https://www.linkedin.com/in/md-giyas-uddinb/)
 - [Twitter](https://x.com/MdGiyasuddinB)
 - [Email](giasbmd1995@gmail.com)
 
