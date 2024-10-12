@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm MD Giyas Uddin B 
 
-I am a Full-Stack Developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js). I’m passionate about building dynamic, responsive, and high-performance web applications. I love tackling challenges, learning new technologies, and continuously improving my skills.
+I am a **Full-Stack Developer** specializing in the **MERN Stack** **(MongoDB, Express.js, React.js, Node.js)**. I’m passionate about building dynamic, responsive, and high-performance web applications. I love tackling challenges, learning new technologies, and continuously improving my skills.
 
 ## 💻 Tech Stack & Expertise
 
@@ -14,7 +14,7 @@ I am a Full-Stack Developer specializing in the MERN stack (MongoDB, Express.js,
 - **Node.js & Express.js:** Creating scalable, RESTful APIs, middleware, and microservices architecture.
 - **Authentication & Security:** Using **JWT**, **OAuth2**, and role-based access control to secure applications.
 - **WebSockets:** Real-time communication via **Socket.io** for chat apps, notifications, and collaborative tools.
-- **API Design:** Crafting and consuming REST APIs, integrating third-party services (Stripe, Twilio, SendGrid).
+- **API Design:** Crafting and consuming **REST APIs**, integrating third-party services (**Stripe, Twilio, SendGrid**).
 
 ### 🛠 **Database Management:**
 - **MongoDB & Mongoose:** Efficient schema design, queries, data relationships, aggregation pipelines, and indexing for performance optimization.
