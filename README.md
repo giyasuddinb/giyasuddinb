@@ -23,7 +23,7 @@ I’m a passionate **Full-Stack Developer** specializing in the **MERN stack** (
 [![Your Name's GitHub Stats](https://github.com/giyasuddinb)
 
 ## 👇 Let’s Connect with Me!
-[<img src='https://github.com/mdgiyasuddinb/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>]
+[<img src='https://github.com/giyasuddinb/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/mdgiyasuddinb)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/instagram.png?raw=true' alt='instagram' height='40'>](https://www.instagram.com/shovoalways/)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/twitter.png?raw=true' alt='twitter' height='40'>](https://twitter.com/shovoalways)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/youtube.png?raw=true' alt='YouTube' height='40'>](https://www.youtube.com/@ProcoderBD)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/shovoalways/)
 - [LinkedIn](https://www.linkedin.com/in/md-giyas-uddinb/)
 - [Personal Portfolio](https://yourportfolio.com)
 - [Twitter](https://x.com/MdGiyasuddinB)
