@@ -2,7 +2,7 @@
 
 I’m a passionate **Full-Stack Developer** specializing in the **MERN stack** (MongoDB, Express.js, React.js, Node.js). I love building modern web applications that are fast, responsive, and user-friendly.
 
-## 💻 What I Do?
+## 💻 What do I Do?
 - **Frontend Development:** I enjoy creating interactive, pixel-perfect UIs with React.js, TailwindCSS, and Material UI. I’m always looking for ways to improve user experience and performance.
 - **Backend Development:** I build scalable APIs using Node.js and Express.js. I focus on writing clean, modular, and maintainable code, making sure everything is robust and secure.
 - **Database Management:** I work with **MongoDB** to manage and store application data, using its flexible schema and scalability to design efficient, performant backends.
@@ -20,13 +20,10 @@ I’m a passionate **Full-Stack Developer** specializing in the **MERN stack** (
 - GraphQL
 
 ## 📈 GitHub Stats
-[![Your Name's GitHub Stats](https://github.com/giyasuddinb)
+[![Giyas Uddin](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)](https://github.com/giyasuddinb)
 
 ## 👇 Let’s Connect with Me!
-[<img src='https://github.com/giyasuddinb/giyasuddinb/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/mdgiyasuddinb)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/instagram.png?raw=true' alt='instagram' height='40'>](https://www.instagram.com/shovoalways/)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/twitter.png?raw=true' alt='twitter' height='40'>](https://twitter.com/shovoalways)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/youtube.png?raw=true' alt='YouTube' height='40'>](https://www.youtube.com/@ProcoderBD)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/shovoalways/)
 - [LinkedIn](https://www.linkedin.com/in/md-giyas-uddinb/)
 - [Personal Portfolio](https://yourportfolio.com)
 - [Twitter](https://x.com/MdGiyasuddinB)
-
----
 
